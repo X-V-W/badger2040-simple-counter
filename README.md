@@ -20,3 +20,6 @@ c + Up or Down: count up or down by 10
 Up + Down: reset the counter to 0
 
 press a + b to return to the launcher
+
+
+![screenshot](counter-pic.png)
