@@ -1,9 +1,11 @@
-# badger2040-simple-counter
+# badger 2040 simple counter
 
-I added a simple counter program to the examples library of the badger 2040. 
+I added a simple counter program to the examples library of the Pimoroni [Badger 2040](https://shop.pimoroni.com/products/badger-2040?variant=39752959852627). 
 Since im not a programmer please correct me on my mistakes. 
 
-In order to run the program you need to copy the counter.json file to the /state directory and the files counter.py and icon-coounter.jpg to the /examples directory of the badger OS via Thonny.
+In order to run the program you need to copy the counter.json file to the /state directory and the files counter.py and icon-coounter.jpg to the /examples directory of the [badger OS](https://github.com/pimoroni/badger2040?tab=readme-ov-file#badger-2040) via [Thonny](https://thonny.org).
+
+
 
 **Button Mapping:**
 
